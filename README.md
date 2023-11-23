@@ -49,14 +49,21 @@ Add custom columns
 
 
 
-Successfully added SOURCE PORT and DESTINATION PORT columns for proper packet capture analysis.
+Successfully added SOURCE PORT and DESTINATION PORT columns for proper packet capture and analysis.
 
 ![Screenshot 2023-10-07 160052](https://github.com/JoshWills69/Packet-Analysis-WIRESHARK/assets/149022021/3672df70-7b1a-41c5-bb38-a3ef8531cdee)
 
 
 
 
+To run Capture Filter, I'd be filtering the source IP. In this case; 192.168.0.67
+> src 192.168.0.67
 ![Screenshot 2023-10-07 172232](https://github.com/JoshWills69/Packet-Analysis-WIRESHARK/assets/149022021/339e13bc-cc47-4466-bb49-8624bf7ab5bf)
+
+![Screenshot 2023-10-07 172340](https://github.com/JoshWills69/Packet-Analysis-WIRESHARK/assets/149022021/69f6e71c-3ba0-4f76-92fa-307809bb780b)
+
+
+
 
 
 ![Screenshot 2023-10-07 173049](https://github.com/JoshWills69/Packet-Analysis-WIRESHARK/assets/149022021/a582af66-9dba-4f1a-95a7-b1417d32b5bf)
