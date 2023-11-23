@@ -2,7 +2,7 @@
 
 Wireshark is a free and open-source network protocol and traffic analyzer that allows you to capture network traffic and presents the captured traffic in form of individual packets for granular analysis. 
 It is typically used to analyze previously captured traffic stored in the form of a PCAP-file for analysis and threat identification.
-> It can also be used for identify when a packet was sent, the source and destination IP and the type of protocol used.
+> It can also be used to identify when a packet was sent, the source and destination IP and the type of protocol used.
 > Wireshirk utilizes the PCAP file format to capture and store packets for later analysis.
 
 |
