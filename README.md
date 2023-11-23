@@ -38,7 +38,7 @@ To confirm default interface and virtual machine IP address (open PS)
 ![Screenshot 2023-10-06 145557](https://github.com/JoshWills69/Packet-Analysis-WIRESHARK/assets/149022021/18796bc7-f551-49c2-aec6-5862fd37c393)
 
 
-Open Wireshirk and initiate packet capture (click on the RUN 🔳)  
+Open Wireshark and initiate packet capture (click on the RUN 🔳)  
 ![Screenshot 2023-10-06 150543](https://github.com/JoshWills69/Packet-Analysis-WIRESHARK/assets/149022021/c3740113-6422-4094-b943-2ae321f18cf2)
 
 
